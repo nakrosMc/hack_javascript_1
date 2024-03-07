@@ -85,7 +85,7 @@ tips: str.split(''); | arr[] = "str"
 ## 🏆 H-7 (🕵️)
 ```sh
 loop: for or while or map output => ["Foo","Bar","Baz","Qux","Echo"]
-note: str.toUppercase() | str.concat("another_str") | `${str} ${another_str}` | str + another_str
+tips: str.toUppercase() | str.concat("another_str") | `${str} ${another_str}` | str + another_str
 ```
 <br/>
 
