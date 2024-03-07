@@ -78,14 +78,14 @@ tips: let i = 7; | i--; | map: arr.reverse()
 ## 🏆 H-6 (FOR / WHILE)
 ```sh
 loop: for, while output => ["f","o","o","z","i","m","a,"n"]
-tips: str.split(''); | arr[] = "str"
+tips: arr[] = "str"
 ```
 <br/>
 
 ## 🏆 H-7 (🕵️)
 ```sh
 loop: for or while or map output => ["Foo","Bar","Baz","Qux","Echo"]
-tips: str.toUppercase() | str.concat("another_str") | `${str} ${another_str}` | str + another_str
+tips: str.toUpperCase(); | str.concat("another_str"); | `${str} ${another_str}` | str + another_str;
 ```
 <br/>
 
