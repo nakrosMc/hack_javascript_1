@@ -14,7 +14,7 @@
 * Tienes que clonar el repositorio 
   git clone https://github.com/SocialOplesk/hack_javascript_1.git
   
-* Instalar las dependencias del ecosistema h-2:
+* Instalar las dependencias del ecosistema hack_javascript_1:
   npm install 
 
 * Para validar los hacks "hack_número_del_hack"
