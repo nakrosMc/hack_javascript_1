@@ -78,7 +78,7 @@ tips: let i = 7; | i--; | map: arr.reverse()
 ## 🏆 H-6 (FOR / WHILE)
 ```sh
 loop: for, while output => ["f","o","o","z","i","m","a,"n"]
-tips: arr[] = "str"
+tips: arr[] = "str"; | arr.length;
 ```
 <br/>
 
