@@ -69,7 +69,8 @@ note: n % 2 == 0?"par":"impar";
 
 ## 🏆 H-5 (FOR / WHILE / MAP)
 ```sh
-loop: for, while, map output => [7,5,3,1]  
+loop: for, while, map output => [7,5,3,1]
+note: let i = 7; | i--; | map: arr.reverse()
 ```
 <br/>
 
@@ -82,7 +83,8 @@ note: str.split('');
 
 ## 🏆 H-7 (🕵️)
 ```sh
-loop: for or while or map output => ["Foo","Bar","Baz","Qux","Echo"] 
+loop: for or while or map output => ["Foo","Bar","Baz","Qux","Echo"]
+note: str.toUppercase()
 ```
 <br/>
 
